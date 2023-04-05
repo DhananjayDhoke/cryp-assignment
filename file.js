@@ -48,4 +48,4 @@ if (!directory) {
 printFiles(directory);
 
 
-// to run this code user node index.js {directory path here}
+// to run this code user node file.js {directory path here}
